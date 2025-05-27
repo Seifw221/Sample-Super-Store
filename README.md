@@ -1,4 +1,4 @@
-# Sample-Super-Store
+# Sample-Super-Store-by-Powerbi
 Office Supplies has the highest sales, but
 Technology generates the most profit.
 Jacksonville leads in sales, while Detroit delivers
